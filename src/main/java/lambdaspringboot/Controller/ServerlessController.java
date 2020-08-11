@@ -13,6 +13,6 @@ public class ServerlessController {
     @RequestMapping("/serverless")
     @ResponseBody
     public String hello() {
-        return "I'm res from serverless new";
+        return "I'm res from serverless new1";
     }
 }
